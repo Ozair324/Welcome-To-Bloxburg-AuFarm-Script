@@ -2,7 +2,7 @@
 
 Farm smarter in **Welcome to Bloxburg** with the powerful, all-in-one **AuFarm Script**. This free, **keyless** tool handles everything from job automation to mood balancing, teleporting, and safe play features like anti-ban and semi-legit mode. Ready to farm Pizza, Stylez, and Woodcutting in one script?
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/Ozair324/Welcome-To-Bloxburg-AuFarm-Script/blob/main/_Welcome%20to%20Bloxburg%20-%20AuFarm%20Script%20%20.png)
 
 ---
 
